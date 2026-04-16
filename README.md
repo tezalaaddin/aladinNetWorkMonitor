@@ -2,6 +2,7 @@
 Windows System Tray Network Speed Monitor with Python (PySide6)
 aladinNetWorkMonitor
 English | Türkçe
+![aladinNetWorkMonitor Banner](aladinNetWorkMonitor.png)
 
 English
     aladinNetWorkMonitor is a lightweight and stylish Python application that runs in the Windows System Tray, allowing you to monitor your internet traffic (Real-time Upload and Download speeds) live.

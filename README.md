@@ -45,6 +45,20 @@ Türkçe
     
     Özelleştirilebilir: Sağ tık menüsü ile görünüm modları arasında anlık geçiş yapabilirsiniz.
 
+# 🧞 aladinNetMon
+A minimalist, draggable network speed monitor for Windows.
+
+### 🚀 Özellikler
+- **Gerçek Zamanlı Hız:** Anlık Download ve Upload takibi.
+- **Sürüklenebilir:** Ekranın istediğin yerine bırak, konumunu hatırlasın.
+- **Şık Tasarım:** Özel 'Aladin' altın logosu ve modern arayüz.
+- **Sağ Tık Menüsü:** Kolay kapatma ve GitHub erişimi.
+
+### 📦 Kurulum
+[Releases](https://github.com/tezalaaddin/aladinNetWorkMonitor/releases) sayfasından `aladinNetMon.exe` dosyasını indir ve çalıştır!
+
+
+
 🛠️ Kurulum
     Programı çalıştırmak için bilgisayarınızda Python 3.x yüklü olmalıdır.
 
@@ -52,6 +66,7 @@ Gerekli kütüphaneleri yükleyin:
 
     Bash
     pip install PySide6 psutil
+
 Uygulamayı çalıştırın:
 
     Bash
